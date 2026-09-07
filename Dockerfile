@@ -1,4 +1,4 @@
-FROM python:3.8.0-alpine3.10
+FROM docker.io/library/python:3.8.0-alpine3.10@sha256:7f465d82a49e092b609fa97cea8ea761c9aa4fa6cab05f4876150e28bf16bcc3
 # Python docker images: https://github.com/docker-library/docs/tree/master/python/
 
 USER root
